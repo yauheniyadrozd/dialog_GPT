@@ -1,0 +1,16 @@
+dialogpt/*.bin
+DialoGPT-medium/*.bin
+trainer/checkpoint-*/
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+build/
+dist/
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
